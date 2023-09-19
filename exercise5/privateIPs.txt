@@ -1,0 +1,1 @@
+aws_instance.InstanceByTerraform.private_ip 
