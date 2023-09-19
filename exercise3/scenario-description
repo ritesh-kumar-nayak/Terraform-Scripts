@@ -1,0 +1,15 @@
+-> Generate the key-pair ( ssh-keygen --> press enter to create the keys in the same directory )
+
+-> Write a shell script script to do some random stuffs such as updating, upgrading, installing packages etc...
+
+-> Write providers.tf
+
+-> Write vars.tf
+
+-> Write instance.tf
+    -> key_pair resource
+    -> aws_instance resource
+        -: provisioners
+            -> file provisioner
+            -> remote-exec provisioner
+-> Apply changes
